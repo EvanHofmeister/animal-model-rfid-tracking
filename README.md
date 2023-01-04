@@ -12,18 +12,14 @@ Text here
 - text
 - text
 
-#### There are 3 admin levels:
-- **Helper:** Can delete chat messages
-- **Moderator:** The above plus the ability to kick and ban users
-- **Administrator:** All the above plus send global alerts and promote/demote users
-
+#### Text
+- **Text
+- **Text
+- **Text
 ---
 
-## Setup
-Clone this repo to your desktop and run `npm install` to install all the dependencies.
-
-You might want to look into `config.json` to make change the port you want to use and set up a SSL certificate.
-
+## Text
+Text
 ---
 
 ## License
