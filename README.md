@@ -1,4 +1,4 @@
-Arduino RFDI Reader For Avain Research
+Arduino RFDI Reader For Avian Research
 ============
 Text here
 
