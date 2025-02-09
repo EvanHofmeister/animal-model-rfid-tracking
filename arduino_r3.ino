@@ -1,7 +1,3 @@
-/*
-based on examples hosted on www.mschoeffler.de
-*/
-
 #include <SoftwareSerial.h>
 
 /* Initialize constants */
